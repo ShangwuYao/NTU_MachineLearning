@@ -1,4 +1,4 @@
-# NTU_MachineLearning
+# 机器学习基石、机器学习技法
 台湾大学林轩田教授的[《机器学习基石》和《机器学习技法》](http://www.csie.ntu.edu.tw/~htlin/mooc/)
 </br>
 从HW6开始变得很有趣
